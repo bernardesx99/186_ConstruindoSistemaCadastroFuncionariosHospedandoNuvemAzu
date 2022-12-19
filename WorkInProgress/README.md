@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafio de Projeto: Construindo um sistema de cadastro de funcionários e hospedando na nuvem Azure](https://web.dio.me/lab/desafio-de-projeto-3/learning/077e9c44-c923-4a43-b70d-1b34f65ce0f4)[Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-3/learning/99f62f92-0235-4021-8331-5fc3fd18a4d3)
+- [Desafio de Projeto: Construindo um sistema de cadastro de funcionários e hospedando na nuvem Azure](https://web.dio.me/lab/desafio-de-projeto-3/learning/077e9c44-c923-4a43-b70d-1b34f65ce0f4)
+- [Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-3/learning/99f62f92-0235-4021-8331-5fc3fd18a4d3)
 
 
 
